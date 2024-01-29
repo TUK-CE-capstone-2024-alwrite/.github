@@ -54,4 +54,3 @@ OCR 기능을 활용한 다목적 필기 어플리케이션<br>
 ## 👩‍💻Etc...
 |Area|site|
 |:----:|:-------:|
-|Notion| https://www.notion.so/Alwrite-d241bcdaa88d4b05ab3778e9b16ca9c7 |
