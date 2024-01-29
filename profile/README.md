@@ -49,3 +49,9 @@ OCR 기능을 활용한 다목적 필기 어플리케이션<br>
 | Profile | <img width="140px" src="https://avatars.githubusercontent.com/u/80901129?v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/113972482?v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/102501739?v=4"> | <img width="140px" src="https://avatars.githubusercontent.com/u/145864444?v=4"> |
 | Role | Frontend | Backend, Ai | Backend, Ai | Frontend |
 | gitHub | https://github.com/Gosuke716 | https://github.com/ohamin26 | https://github.com/min9-525 | https://github.com/ssssssssssun |
+
+
+## 👩‍💻Etc...
+|Area|site|
+|:----:|:-------:|
+|Notion| https://www.notion.so/Alwrite-d241bcdaa88d4b05ab3778e9b16ca9c7 |
