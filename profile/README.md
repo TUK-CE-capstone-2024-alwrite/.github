@@ -2,7 +2,7 @@
 <div align = "center">
 <br>
   
-<h3> https://avatars.githubusercontent.com/u/156687488?s=200&v=4ALWRITE </h3>
+<h3> ![image](https://avatars.githubusercontent.com/u/156687488?s=200&v=4)ALWRITE </h3>
 
 OCR 기능을 활용한 다목적 필기 어플리케이션<br>
 <br> <br>
