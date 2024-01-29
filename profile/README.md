@@ -41,7 +41,7 @@ OCR 기능을 활용한 다목적 필기 어플리케이션<br>
 |Frontend||
 |Backend||
 |Ai||
-|ETC||
+|ETC| https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white |
 
 ## 🧞 Member
 | Name | 고수민 | 오하민 | 김민지 | 황선호 |
