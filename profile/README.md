@@ -2,7 +2,7 @@
   
 # 📺 노트 필기 어플리케이션 Alwrite
 
-## 🪇프로젝트 소개
+## 🪇 프로젝트 소개
 
   - 저희 어플리케이션은
   - 다양한 필기 기능과 텍스트를 원하는 폰트로 변환해주는 텍스트 변환 기능과
@@ -11,11 +11,11 @@
 
 <br>
 
-## 💡System Architecture
+## 💡 시스템 구조
 <img src="https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/dbbcf31f-bcac-4249-9e37-8c72de53f7ef" height=80% width=100%>
 <br>
 
-## 👩‍💻Tech Stack
+## 👩‍💻 사용 기술
 |Area|Teck Stack|
 |:----:|:-------:|
 |Frontend| Flutter
@@ -24,7 +24,7 @@
 |Tools| Git, Github, Discord, Notion
 |Library| openai, clovaai-deep-text-recogition-benchmark, vito
 
-## 🧞 Member
+## 🧞 팀원
 <div>
 
 | **고수민** | **김민지** | **오하민** | **황선호** |
