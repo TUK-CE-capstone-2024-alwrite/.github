@@ -31,18 +31,18 @@ OCR 기능을 활용한 다목적 필기 어플리케이션<br>
 <br>
 
 ## 💡System Architecture
-![image](https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/df6047d5-65bb-4e1a-b107-66380558d652)
+![image](https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/fe31d42a-e710-4f25-8ae8-59b6d0689f75)
 
 <br>
 
 ## 👩‍💻Tech Stack
 |Area|Teck Stack|
 |:----:|:-------:|
-|Frontend| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)|
-|Backend| ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![js](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![js](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
-|Ai| ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![js](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)|
-|Tools| ![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
-
+|Frontend| Flutter
+|Backend| Python, Flask, Firebaes, GCP, Pytorch, Tensorflow, NGINX
+|Ai| Python, Pytorch, Tensorflow, GCP
+|Tools| Git, Github, Discord, Notion
+|Library| openai, clovaai-deep-text-recogition-benchmark, vito
 ## 🧞 Member
 | Name | 고수민 | 오하민 | 김민지 | 황선호 |
 | --- | --- | --- | --- | --- |
