@@ -2,7 +2,7 @@
 <div>
 <br>
   
-# 📺 노트 필기 어플리케이션 Alwrite
+### 📺 노트 필기 어플리케이션 Alwrite
 
 <div align="center">
   OCR 기능을 활용한 다목적 필기 어플리케이션<br>
@@ -13,12 +13,12 @@
 
 <br>
 
-## 💡System Architecture
-![image](https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/dbbcf31f-bcac-4249-9e37-8c72de53f7ef)
+### 💡System Architecture
+![image width="350px" height="500px"](https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/dbbcf31f-bcac-4249-9e37-8c72de53f7ef)
 
 <br>
 
-## 👩‍💻Tech Stack
+### 👩‍💻Tech Stack
 |Area|Teck Stack|
 |:----:|:-------:|
 |Frontend| Flutter
@@ -27,7 +27,7 @@
 |Tools| Git, Github, Discord, Notion
 |Library| openai, clovaai-deep-text-recogition-benchmark, vito
 
-## 🧞 Member
+### 🧞 Member
 <div>
 
 | **고수민** | **김민지** | **오하민** | **황선호** |
@@ -36,7 +36,7 @@
 
 </div>
 
-## 4. 개발 기간 및 작업 관리
+### 4. 개발 기간 및 작업 관리
 
 ### 개발 기간
 
