@@ -14,7 +14,7 @@
 <br>
 
 ## 💡System Architecture
-<img src="https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/dbbcf31f-bcac-4249-9e37-8c72de53f7ef" height=100% width=100%>
+<img src="https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/dbbcf31f-bcac-4249-9e37-8c72de53f7ef" height=80% width=100%>
 <br>
 
 ## 👩‍💻Tech Stack
