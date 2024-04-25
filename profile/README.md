@@ -1,5 +1,5 @@
 
-<div align = "center">
+<div>
 <br>
   
 # 📺 노트 필기 어플리케이션 Alwrite
@@ -26,7 +26,7 @@ OCR 기능을 활용한 다목적 필기 어플리케이션<br>
 |Library| openai, clovaai-deep-text-recogition-benchmark, vito
 
 ## 🧞 Member
-<div align="center">
+<div>
 
 | **고수민** | **김민지** | **오하민** | **황선호** |
 | :------: | :------: | :------: | :------: |
