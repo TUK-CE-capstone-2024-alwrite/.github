@@ -29,7 +29,7 @@ OCR 기능을 활용한 다목적 필기 어플리케이션<br>
 <div align="center">
 
 | **고수민** | **김민지** | **오하민** | **황선호** |
-| :------: | :------: |
+| :------: | :------: | :------: | :------: |
 | [<img width="140px" src="https://avatars.githubusercontent.com/u/80901129?v=4" height=150 width=150> <br/> @Gosuke716](https://github.com/Gosuke716) | [<img width="140px" src="https://avatars.githubusercontent.com/u/102501739?v=4" height=150 width=150> <br/> @min9-525](https://github.com/min9-525) | [<img width="140px" src="https://avatars.githubusercontent.com/u/113972482?v=4" height=150 width=150> <br/> @ohamin26](https://github.com/ohamin26) | [<img width="140px" src="https://avatars.githubusercontent.com/u/145864444?v=4" height=150 width=150> <br/> @ssssssssssun](https://github.com/ssssssssssun) |
 
 </div>
