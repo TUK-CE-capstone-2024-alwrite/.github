@@ -4,7 +4,9 @@
   
 # 📺 노트 필기 어플리케이션 Alwrite
 
-OCR 기능을 활용한 다목적 필기 어플리케이션<br>
+<div align="center">
+  OCR 기능을 활용한 다목적 필기 어플리케이션<br>
+</div>
 <br>
 
 </div>
