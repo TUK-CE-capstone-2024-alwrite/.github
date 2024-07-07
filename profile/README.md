@@ -4,25 +4,30 @@
 
 ## 🪇 프로젝트 소개
 
-  - 저희 어플리케이션은
-  - 다양한 필기 기능과 텍스트를 원하는 폰트로 변환해주는 텍스트 변환 기능과
-  - 녹음을 요약하는 녹음 요약 기능 등 사용자의 편의를 증가해주는 다양한 기능을 가진
-  - 다용도 노트 어플리케이션입니다.
+  - 🌎 ALWRITE는 다양한 필기 도구를 통해 사용자에게 편의성을 제공합니다.
+  - 🐕 필기 뿐만 아니라 사용자 편의성을 증가 시켜주는 다양한 기능들을 포함한 다목적 필기 어플리케이션입니다.
+
+<br/>
+
+https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/8aafda8d-adef-4e1d-b9d8-432a94978274
+
 
 <br>
 
 ## 💡 시스템 구조
-<img src="https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/dbbcf31f-bcac-4249-9e37-8c72de53f7ef" height=80% width=100%>
+![image](https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/e855d278-240d-41d7-8a76-0a1a0560d13c)
+![image](https://github.com/TUK-CE-capstone-2024-alwrite/.github/assets/113972482/9fd7cda3-c0c8-4d6b-983f-2213fd0b5f43)
+
 <br>
 
 ## 👩‍💻 사용 기술
-|Area|Teck Stack|
-|:----:|:-------:|
-|Frontend| Flutter
-|Backend| Python, Flask, Firebaes, GCP, Pytorch, Tensorflow, NGINX
-|Ai| Python, Pytorch, Tensorflow, GCP
-|Tools| Git, Github, Discord, Notion
-|Library| openai, clovaai-deep-text-recogition-benchmark, vito
+
+- 💻 **프론트엔드** : Dart, flutter, Riverpod
+- 💻 **백엔드(server) :** python, flask, firebase
+- 💻 **백엔드(ai) :** python, pytorch, tensorflow, GCP
+- 📝 **버전 및 이슈 관리** : Github, github-actions
+- 🌐 **서비스 배포 환경** : GCP, Docker, nginx
+- 👨🏻‍💻 **협업 툴 :** discord, notion
 
 ## 🧞 팀원
 <div>
@@ -37,7 +42,10 @@
 
 ### 개발 기간
 
-- 전체 개발 기간 : 2024.03.01 ~
+- 전체 개발 기간 : 2024.03.01 ~ 2024.06.20
+- 프론트엔드 개발 기간 : 2024.05.28 ~ 2024.06.20
+- 백엔드 개발 기간 : 2024.02.17 ~ 2024.04.15
+- AI 개발 기간 : 2023.12.20 ~ 2024.02.15
 
 <br>
 
